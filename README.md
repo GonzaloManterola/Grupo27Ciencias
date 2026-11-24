@@ -3,6 +3,7 @@ El jupyter notebook donde se encuentran todos los gráficos y los códigos refer
 
 ## Instalar los requerimientos: 
 pip -m venv .venv 
+
 pip install -r requirements.txt
 
 ## Usarlo con jupyter 
